@@ -4,3 +4,4 @@ coverage/
 .claude/
 CLAUDE.md
 data/
+!home-assistant-flightradar24-card.js
